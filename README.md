@@ -1,4 +1,4 @@
-# Local LLM Model for a smart agricultural system.
+# Local LLM Model for a smart agricultural system.🌾🌾
 
 A comprehensive AI-powered agricultural analytics platform that provides real-time insights, predictions, and recommendations for smart farming using Large Language Models (LLMs).
 
