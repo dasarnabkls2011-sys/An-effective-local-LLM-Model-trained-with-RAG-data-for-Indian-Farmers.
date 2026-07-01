@@ -1,4 +1,4 @@
-# 🌾 Smart Agriculture System Using LLMs
+# Local LLM Model integrated with Ollama for a smart agricultural system.
 
 A comprehensive AI-powered agricultural analytics platform that provides real-time insights, predictions, and recommendations for smart farming using Large Language Models (LLMs).
 
